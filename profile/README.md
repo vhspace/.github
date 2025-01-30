@@ -6,7 +6,7 @@ Welcome to the **Virtual Hacker Space** GitHub repository! VHSpace is a collabor
 
 ## About VHSpace
 
-VHSpace is a virtual hub where individuals and teams collaborate on open-source projects, share ideas, and create impactful solutions. Our mission is to empower creators through inclusivity, experimentation, and shared knowledge.
+VHSpace is a virtual hub where individuals and teams collaborate on open-source projects, share ideas, and share knowledge about topics we have interests in.
 
 ### Key Features:
 - **Collaborative Projects**: Join or propose initiatives in tech, design, and more.
