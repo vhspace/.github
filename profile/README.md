@@ -1,9 +1,8 @@
-# <img src="https://vhspace.org/images/logo.png" alt="VH Space Logo" width="40" /> VH Space
+# <img src="https://vhspace.org/vhs1.svg" alt="VH Space Logo" width="40" /> VH Space
 
 Welcome to the **VH Space** GitHub repository! VH Space is a collaborative platform dedicated to fostering creativity, innovation, and community-driven projects. Join us to build, share, and inspire.
 
-![VH Space Banner](https://vhspace.org/images/banner.png)
-
+<img src="https://vhspace.org/vhs1.svg" alt="VH Space Banner" width="800" />
 ## About VH Space
 
 VH Space is a virtual hub where individuals and teams collaborate on open-source projects, share ideas, and create impactful solutions. Our mission is to empower creators through inclusivity, experimentation, and shared knowledge.
