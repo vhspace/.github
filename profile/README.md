@@ -1,12 +1,12 @@
 # <img src="https://vhspace.org/vhs1.svg" alt="VH Space Logo" width="40" /> VHSpace
 
-Welcome to the **Virtual Hacker Space** GitHub repository! VH Space is a collaborative platform dedicated to fostering creativity, innovation, and community-driven projects. Join us to build, share, and inspire.
+Welcome to the **Virtual Hacker Space** GitHub repository! VHSpace is a collaborative group of hackers dedicated to fostering creativity, innovation, and community-driven projects. Join us to build, share, and inspire.
 
 <img src="https://vhspace.org/vhs1.svg" alt="VH Space Banner" width="800" />
 
 ## About VHSpace
 
-VH Space is a virtual hub where individuals and teams collaborate on open-source projects, share ideas, and create impactful solutions. Our mission is to empower creators through inclusivity, experimentation, and shared knowledge.
+VHSpace is a virtual hub where individuals and teams collaborate on open-source projects, share ideas, and create impactful solutions. Our mission is to empower creators through inclusivity, experimentation, and shared knowledge.
 
 ### Key Features:
 - **Collaborative Projects**: Join or propose initiatives in tech, design, and more.
