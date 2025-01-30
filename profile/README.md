@@ -13,7 +13,7 @@ VHSpace is a virtual hub where individuals and teams collaborate on open-source 
 - **Open-Source Focus**: Build tools and resources for the community.
 - **Learning Resources**: Access tutorials, templates, and guides.
 - **Events & Workshops**: Participate in hackathons and skill-building sessions.
-- **501c3 non-profit**: Your monitary contributions to projects may be a tax deduction
+- **501c3 non-profit**: Your monetary contributions to projects may be a tax deduction
 
 ---
 
