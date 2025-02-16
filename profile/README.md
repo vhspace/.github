@@ -1,6 +1,6 @@
 # <img src="https://vhspace.org/vhs1.svg" alt="VH Space Logo" width="40" /> VHSpace
 
-Welcome to the **Virtual Hacker Space** GitHub repository! VHSpace is a collaborative group of hackers dedicated to fostering creativity, innovation, and community-driven projects. Join us to build, share, and inspire.
+Welcome to the **Virtual Hacker Space**! VHS is a community to facilitate collaboration and share knowledge, open to anyone. We're mostly based on Discord and GitHub.
 
 <img src="https://vhspace.org/vhs1.svg" alt="VH Space Banner" width="800" />
 
